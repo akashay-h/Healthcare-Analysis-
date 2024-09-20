@@ -63,3 +63,8 @@ The goal of this project is to create an interactive and data-rich dashboard tha
 
 # Data Modeling
 ![Healthcare Data model](https://github.com/user-attachments/assets/73ab4424-a796-486c-b22f-2c33b2fffb50)
+
+# Technologies Used
+* **Power BI**: For data visualization and dashboard creation.
+* **DAX (Data Analysis Expressions)**: Used to create custom calculations for key performance metrics.
+* **Power Query**: Used for data transformation and cleaning.
